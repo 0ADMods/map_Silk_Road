@@ -1,0 +1,9 @@
+{
+    "name": "map_Silk_Road",
+    "version": "0.0.1",
+    "label": "Silk Road (4)",
+    "url": "N/A",
+    "description": "N/A",
+    "dependencies": ["0ad"],
+    "type": "map"
+}
