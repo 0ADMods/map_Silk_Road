@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="508.105" y="329.874" z="43.999"/>
+		<Position x="580.675" y="206.363" z="206.325"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -2076,6 +2076,1178 @@
 			<Position x="581.73548" z="1173.30982"/>
 			<Orientation y="0.5443"/>
 			<Actor seed="15638"/>
+		</Entity>
+		<Entity uid="415">
+			<Template>actor|props/flora/bush_dry_a.xml</Template>
+			<Position x="675.81513" z="916.2724"/>
+			<Orientation y="1.01941"/>
+			<Actor seed="5870"/>
+		</Entity>
+		<Entity uid="416">
+			<Template>actor|props/flora/bush_dry_a.xml</Template>
+			<Position x="684.1681" z="922.07258"/>
+			<Orientation y="-0.49897"/>
+			<Actor seed="58724"/>
+		</Entity>
+		<Entity uid="417">
+			<Template>actor|props/flora/bush_dry_a.xml</Template>
+			<Position x="666.10541" z="915.48371"/>
+			<Orientation y="0.21825"/>
+			<Actor seed="58200"/>
+		</Entity>
+		<Entity uid="418">
+			<Template>actor|props/flora/bush_dry_a.xml</Template>
+			<Position x="664.49683" z="918.9502"/>
+			<Orientation y="0.2362"/>
+			<Actor seed="12760"/>
+		</Entity>
+		<Entity uid="419">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="719.1391" z="939.57233"/>
+			<Orientation y="0.73527"/>
+			<Actor seed="15646"/>
+		</Entity>
+		<Entity uid="420">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="667.60187" z="926.68738"/>
+			<Orientation y="0.4215"/>
+			<Actor seed="33690"/>
+		</Entity>
+		<Entity uid="421">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="671.49811" z="912.13923"/>
+			<Orientation y="-1.02773"/>
+			<Actor seed="14886"/>
+		</Entity>
+		<Entity uid="422">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="736.80988" z="942.45307"/>
+			<Orientation y="0.87581"/>
+			<Actor seed="28134"/>
+		</Entity>
+		<Entity uid="423">
+			<Template>actor|props/flora/bush_desert_a.xml</Template>
+			<Position x="727.73908" z="934.38807"/>
+			<Orientation y="-1.51503"/>
+			<Actor seed="17508"/>
+		</Entity>
+		<Entity uid="424">
+			<Template>actor|props/flora/bush_desert_a.xml</Template>
+			<Position x="718.85169" z="944.22468"/>
+			<Orientation y="0.90761"/>
+			<Actor seed="57604"/>
+		</Entity>
+		<Entity uid="425">
+			<Template>actor|props/flora/bush_dry_a.xml</Template>
+			<Position x="735.69904" z="938.2298"/>
+			<Orientation y="-0.22001"/>
+			<Actor seed="6662"/>
+		</Entity>
+		<Entity uid="426">
+			<Template>actor|props/flora/bush_dry_a.xml</Template>
+			<Position x="719.90137" z="936.40857"/>
+			<Orientation y="0.83371"/>
+			<Actor seed="25908"/>
+		</Entity>
+		<Entity uid="428">
+			<Template>actor|props/flora/bush.xml</Template>
+			<Position x="634.6977" z="923.40625"/>
+			<Orientation y="0.4346"/>
+			<Actor seed="64962"/>
+		</Entity>
+		<Entity uid="429">
+			<Template>actor|props/flora/bush.xml</Template>
+			<Position x="617.774" z="902.62989"/>
+			<Orientation y="0.55451"/>
+			<Actor seed="26046"/>
+		</Entity>
+		<Entity uid="430">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="617.81116" z="902.44043"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4274"/>
+		</Entity>
+		<Entity uid="431">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="634.22388" z="922.89307"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="61888"/>
+		</Entity>
+		<Entity uid="432">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="693.39435" z="931.43464"/>
+			<Orientation y="0.62206"/>
+			<Actor seed="58468"/>
+		</Entity>
+		<Entity uid="433">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="699.73725" z="923.76313"/>
+			<Orientation y="-0.93566"/>
+			<Actor seed="754"/>
+		</Entity>
+		<Entity uid="434">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="693.57038" z="915.51514"/>
+			<Orientation y="0.44617"/>
+			<Actor seed="7226"/>
+		</Entity>
+		<Entity uid="435">
+			<Template>actor|props/flora/bush_dry_a.xml</Template>
+			<Position x="699.97907" z="923.6496"/>
+			<Orientation y="0.65185"/>
+			<Actor seed="49054"/>
+		</Entity>
+		<Entity uid="436">
+			<Template>actor|props/flora/bush_dry_a.xml</Template>
+			<Position x="693.45026" z="932.48688"/>
+			<Orientation y="-0.48704"/>
+			<Actor seed="24388"/>
+		</Entity>
+		<Entity uid="437">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="690.8349" z="904.9679"/>
+			<Orientation y="1.2153"/>
+			<Actor seed="29896"/>
+		</Entity>
+		<Entity uid="438">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="726.93305" z="913.23505"/>
+			<Orientation y="-0.32447"/>
+			<Actor seed="58210"/>
+		</Entity>
+		<Entity uid="439">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="744.87806" z="860.77454"/>
+			<Orientation y="-0.92692"/>
+			<Actor seed="15134"/>
+		</Entity>
+		<Entity uid="440">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="538.57544" z="866.98584"/>
+			<Orientation y="1.05181"/>
+			<Actor seed="60456"/>
+		</Entity>
+		<Entity uid="441">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="509.81147" z="812.88691"/>
+			<Orientation y="-0.83811"/>
+			<Actor seed="18354"/>
+		</Entity>
+		<Entity uid="442">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="500.69895" z="881.99366"/>
+			<Orientation y="0.40073"/>
+			<Actor seed="41730"/>
+		</Entity>
+		<Entity uid="443">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="668.24994" z="852.83466"/>
+			<Orientation y="-0.35524"/>
+			<Actor seed="39326"/>
+		</Entity>
+		<Entity uid="444">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="595.85639" z="887.15101"/>
+			<Orientation y="0.92849"/>
+			<Actor seed="9478"/>
+		</Entity>
+		<Entity uid="445">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="504.4832" z="921.74634"/>
+			<Orientation y="-0.58878"/>
+			<Actor seed="6782"/>
+		</Entity>
+		<Entity uid="446">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="603.3545" z="823.40632"/>
+			<Orientation y="0.5917"/>
+			<Actor seed="17118"/>
+		</Entity>
+		<Entity uid="447">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="789.86902" z="801.26337"/>
+			<Orientation y="1.02334"/>
+			<Actor seed="49096"/>
+		</Entity>
+		<Entity uid="448">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="491.50263" z="783.33399"/>
+			<Orientation y="0.98881"/>
+			<Actor seed="46550"/>
+		</Entity>
+		<Entity uid="449">
+			<Template>gaia/flora_tree_baobab</Template>
+			<Player>0</Player>
+			<Position x="452.40561" z="768.41639"/>
+			<Orientation y="-1.4193"/>
+			<Actor seed="8356"/>
+		</Entity>
+		<Entity uid="450">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="407.9127" z="620.27192"/>
+			<Orientation y="0.54299"/>
+			<Actor seed="56196"/>
+		</Entity>
+		<Entity uid="451">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="405.99268" z="569.13398"/>
+			<Orientation y="-1.35106"/>
+			<Actor seed="9008"/>
+		</Entity>
+		<Entity uid="452">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="392.30692" z="535.31574"/>
+			<Orientation y="1.16372"/>
+			<Actor seed="4140"/>
+		</Entity>
+		<Entity uid="453">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="380.5713" z="501.76993"/>
+			<Orientation y="-0.1716"/>
+			<Actor seed="56848"/>
+		</Entity>
+		<Entity uid="454">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="373.96116" z="473.40876"/>
+			<Orientation y="0.43448"/>
+			<Actor seed="37692"/>
+		</Entity>
+		<Entity uid="455">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="388.85071" z="435.52704"/>
+			<Orientation y="-2.2274"/>
+			<Actor seed="65296"/>
+		</Entity>
+		<Entity uid="456">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="390.70536" z="407.66678"/>
+			<Orientation y="0.52662"/>
+			<Actor seed="56760"/>
+		</Entity>
+		<Entity uid="457">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="397.30402" z="391.64487"/>
+			<Orientation y="-0.73545"/>
+			<Actor seed="13398"/>
+		</Entity>
+		<Entity uid="458">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="410.14713" z="364.37772"/>
+			<Orientation y="1.4572"/>
+			<Actor seed="18258"/>
+		</Entity>
+		<Entity uid="459">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="420.6648" z="320.17939"/>
+			<Orientation y="1.07"/>
+			<Actor seed="25402"/>
+		</Entity>
+		<Entity uid="460">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="414.99744" z="346.82221"/>
+			<Orientation y="0.17063"/>
+			<Actor seed="50384"/>
+		</Entity>
+		<Entity uid="461">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="395.4687" z="467.82905"/>
+			<Orientation y="0.31995"/>
+			<Actor seed="58502"/>
+		</Entity>
+		<Entity uid="462">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="397.96631" z="499.07062"/>
+			<Orientation y="0.1215"/>
+			<Actor seed="2780"/>
+		</Entity>
+		<Entity uid="463">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="406.439" z="401.47144"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36554"/>
+		</Entity>
+		<Entity uid="464">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="419.46644" z="365.30115"/>
+			<Orientation y="-0.68476"/>
+			<Actor seed="2062"/>
+		</Entity>
+		<Entity uid="465">
+			<Template>gaia/flora_bush_temperate</Template>
+			<Player>0</Player>
+			<Position x="395.4951" z="495.64557"/>
+			<Orientation y="0.6559"/>
+			<Actor seed="63236"/>
+		</Entity>
+		<Entity uid="466">
+			<Template>gaia/flora_bush_temperate</Template>
+			<Player>0</Player>
+			<Position x="400.097" z="538.19129"/>
+			<Orientation y="-1.98841"/>
+			<Actor seed="26788"/>
+		</Entity>
+		<Entity uid="467">
+			<Template>gaia/flora_bush_temperate</Template>
+			<Player>0</Player>
+			<Position x="405.11493" z="479.26667"/>
+			<Orientation y="1.1018"/>
+			<Actor seed="61264"/>
+		</Entity>
+		<Entity uid="468">
+			<Template>gaia/flora_bush_temperate</Template>
+			<Player>0</Player>
+			<Position x="417.62967" z="466.37208"/>
+			<Orientation y="-0.27515"/>
+			<Actor seed="19470"/>
+		</Entity>
+		<Entity uid="469">
+			<Template>gaia/flora_bush_temperate</Template>
+			<Player>0</Player>
+			<Position x="415.97059" z="586.47791"/>
+			<Orientation y="0.51857"/>
+			<Actor seed="22888"/>
+		</Entity>
+		<Entity uid="502">
+			<Template>gaia/flora_bush_temperate</Template>
+			<Player>0</Player>
+			<Position x="405.74564" z="424.69529"/>
+			<Orientation y="-1.91945"/>
+			<Actor seed="25854"/>
+		</Entity>
+		<Entity uid="503">
+			<Template>gaia/flora_bush_temperate</Template>
+			<Player>0</Player>
+			<Position x="420.98935" z="353.69422"/>
+			<Orientation y="0.79873"/>
+			<Actor seed="19508"/>
+		</Entity>
+		<Entity uid="504">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="414.75791" z="522.25867"/>
+			<Orientation y="-0.67331"/>
+			<Actor seed="40452"/>
+		</Entity>
+		<Entity uid="505">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="412.45807" z="520.00379"/>
+			<Orientation y="0.6549"/>
+			<Actor seed="48508"/>
+		</Entity>
+		<Entity uid="506">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="410.56824" z="525.68067"/>
+			<Orientation y="0.7958"/>
+			<Actor seed="50884"/>
+		</Entity>
+		<Entity uid="507">
+			<Template>actor|props/flora/grass_field_dry_tall.xml</Template>
+			<Position x="410.25626" z="492.10328"/>
+			<Orientation y="0.7635"/>
+			<Actor seed="11432"/>
+		</Entity>
+		<Entity uid="513">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="391.08918" z="450.37681"/>
+			<Orientation y="-0.66544"/>
+			<Actor seed="50884"/>
+		</Entity>
+		<Entity uid="514">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="396.90168" z="451.79572"/>
+			<Orientation y="-0.80634"/>
+			<Actor seed="48508"/>
+		</Entity>
+		<Entity uid="515">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="394.8426" z="454.27237"/>
+			<Orientation y="-2.13456"/>
+			<Actor seed="40452"/>
+		</Entity>
+		<Entity uid="516">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="410.33771" z="385.40073"/>
+			<Orientation y="1.33568"/>
+			<Actor seed="50884"/>
+		</Entity>
+		<Entity uid="517">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="412.22754" z="379.72385"/>
+			<Orientation y="1.09318"/>
+			<Actor seed="48508"/>
+		</Entity>
+		<Entity uid="518">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="414.52738" z="381.97873"/>
+			<Orientation y="1.13662"/>
+			<Actor seed="40452"/>
+		</Entity>
+		<Entity uid="519">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="423.09888" z="598.52784"/>
+			<Orientation y="1.36495"/>
+			<Actor seed="50884"/>
+		</Entity>
+		<Entity uid="520">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="429.03986" z="599.23725"/>
+			<Orientation y="-1.05175"/>
+			<Actor seed="48508"/>
+		</Entity>
+		<Entity uid="521">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="427.29365" z="601.94361"/>
+			<Orientation y="2.71068"/>
+			<Actor seed="40452"/>
+		</Entity>
+		<Entity uid="532">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="683.75709" z="526.542"/>
+			<Orientation y="0.81328"/>
+			<Actor seed="56578"/>
+		</Entity>
+		<Entity uid="533">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="666.28553" z="517.8058"/>
+			<Orientation y="1.22173"/>
+			<Actor seed="41670"/>
+		</Entity>
+		<Entity uid="534">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="590.8313" z="516.61878"/>
+			<Orientation y="-2.78983"/>
+			<Actor seed="41714"/>
+		</Entity>
+		<Entity uid="539">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="635.11048" z="444.59406"/>
+			<Orientation y="-0.56734"/>
+			<Actor seed="56578"/>
+		</Entity>
+		<Entity uid="540">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="624.18128" z="460.7845"/>
+			<Orientation y="-0.57451"/>
+			<Actor seed="41670"/>
+		</Entity>
+		<Entity uid="541">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="613.21473" z="535.4469"/>
+			<Orientation y="-2.80378"/>
+			<Actor seed="41714"/>
+		</Entity>
+		<Entity uid="542">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="614.17591" z="512.41645"/>
+			<Orientation y="-2.36672"/>
+			<Actor seed="58858"/>
+		</Entity>
+		<Entity uid="543">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="605.45551" z="529.23975"/>
+			<Orientation y="-2.97059"/>
+			<Actor seed="14148"/>
+		</Entity>
+		<Entity uid="544">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="633.96174" z="541.98365"/>
+			<Orientation y="-2.48493"/>
+			<Actor seed="24582"/>
+		</Entity>
+		<Entity uid="545">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="602.53144" z="469.54566"/>
+			<Orientation y="-0.08388"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="546">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="540.62122" z="469.10917"/>
+			<Orientation y="-4.38695"/>
+			<Actor seed="56578"/>
+		</Entity>
+		<Entity uid="547">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="524.71485" z="480.44794"/>
+			<Orientation y="-3.97851"/>
+			<Actor seed="41670"/>
+		</Entity>
+		<Entity uid="548">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="488.30024" z="546.54432"/>
+			<Orientation y="-7.99006"/>
+			<Actor seed="41714"/>
+		</Entity>
+		<Entity uid="549">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="497.26444" z="525.30842"/>
+			<Orientation y="-6.0626"/>
+			<Actor seed="58858"/>
+		</Entity>
+		<Entity uid="550">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="483.20566" z="538.01325"/>
+			<Orientation y="-3.53869"/>
+			<Actor seed="14148"/>
+		</Entity>
+		<Entity uid="551">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="505.44516" z="559.93152"/>
+			<Orientation y="-7.10369"/>
+			<Actor seed="24582"/>
+		</Entity>
+		<Entity uid="552">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="501.33805" z="480.95429"/>
+			<Orientation y="-7.8083"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="553">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="711.7154" z="452.31894"/>
+			<Orientation y="2.50881"/>
+			<Actor seed="56578"/>
+		</Entity>
+		<Entity uid="554">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="705.22053" z="470.74155"/>
+			<Orientation y="2.91726"/>
+			<Actor seed="41670"/>
+		</Entity>
+		<Entity uid="555">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="713.4292" z="545.75757"/>
+			<Orientation y="-1.0943"/>
+			<Actor seed="41714"/>
+		</Entity>
+		<Entity uid="556">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="708.55384" z="523.22864"/>
+			<Orientation y="0.83317"/>
+			<Actor seed="58858"/>
+		</Entity>
+		<Entity uid="557">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="704.35584" z="541.70667"/>
+			<Orientation y="3.35708"/>
+			<Actor seed="14148"/>
+		</Entity>
+		<Entity uid="558">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="735.154" z="546.85315"/>
+			<Orientation y="-0.20794"/>
+			<Actor seed="24582"/>
+		</Entity>
+		<Entity uid="559">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="686.38495" z="484.59675"/>
+			<Orientation y="-0.91254"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="560">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="736.29493" z="563.52393"/>
+			<Orientation y="-0.99131"/>
+			<Actor seed="56578"/>
+		</Entity>
+		<Entity uid="561">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="748.84101" z="548.55164"/>
+			<Orientation y="-0.58286"/>
+			<Actor seed="41670"/>
+		</Entity>
+		<Entity uid="562">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="767.47596" z="475.42484"/>
+			<Orientation y="-4.59441"/>
+			<Actor seed="41714"/>
+		</Entity>
+		<Entity uid="563">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="764.13636" z="498.23203"/>
+			<Orientation y="-2.66695"/>
+			<Actor seed="58858"/>
+		</Entity>
+		<Entity uid="564">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="774.5511" z="482.40177"/>
+			<Orientation y="-0.14304"/>
+			<Actor seed="14148"/>
+		</Entity>
+		<Entity uid="565">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="747.51691" z="466.77604"/>
+			<Orientation y="-3.70804"/>
+			<Actor seed="24582"/>
+		</Entity>
+		<Entity uid="566">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="771.34058" z="542.18628"/>
+			<Orientation y="-4.41265"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="567">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="545.22535" z="396.2639"/>
+			<Orientation y="-4.0778"/>
+			<Actor seed="56578"/>
+		</Entity>
+		<Entity uid="568">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="533.52308" z="411.90461"/>
+			<Orientation y="-3.66935"/>
+			<Actor seed="41670"/>
+		</Entity>
+		<Entity uid="569">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="518.94434" z="485.94651"/>
+			<Orientation y="-7.6809"/>
+			<Actor seed="41714"/>
+		</Entity>
+		<Entity uid="570">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="521.02271" z="462.99006"/>
+			<Orientation y="-5.75344"/>
+			<Actor seed="58858"/>
+		</Entity>
+		<Entity uid="571">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="511.4957" z="479.36991"/>
+			<Orientation y="-3.22953"/>
+			<Actor seed="14148"/>
+		</Entity>
+		<Entity uid="572">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="539.3495" z="493.48276"/>
+			<Orientation y="-6.79453"/>
+			<Actor seed="24582"/>
+		</Entity>
+		<Entity uid="573">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="511.4083" z="419.49946"/>
+			<Orientation y="-7.49914"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="574">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="558.70527" z="670.40516"/>
+			<Orientation y="0.81328"/>
+			<Actor seed="56578"/>
+		</Entity>
+		<Entity uid="575">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="541.23377" z="661.66895"/>
+			<Orientation y="1.22173"/>
+			<Actor seed="41670"/>
+		</Entity>
+		<Entity uid="576">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="465.77948" z="660.48194"/>
+			<Orientation y="-2.78983"/>
+			<Actor seed="41714"/>
+		</Entity>
+		<Entity uid="577">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="488.73987" z="658.44703"/>
+			<Orientation y="-0.86237"/>
+			<Actor seed="58858"/>
+		</Entity>
+		<Entity uid="578">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="470.92756" z="651.98304"/>
+			<Orientation y="1.66155"/>
+			<Actor seed="14148"/>
+		</Entity>
+		<Entity uid="580">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="529.82929" z="641.25611"/>
+			<Orientation y="-2.60807"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="581">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="729.45185" z="569.45435"/>
+			<Orientation y="0.69869"/>
+			<Actor seed="56578"/>
+		</Entity>
+		<Entity uid="582">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="734.26191" z="588.38685"/>
+			<Orientation y="0.72886"/>
+			<Actor seed="41670"/>
+		</Entity>
+		<Entity uid="583">
+			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
+			<Position x="782.68824" z="646.26288"/>
+			<Orientation y="0.74071"/>
+			<Actor seed="41714"/>
+		</Entity>
+		<Entity uid="584">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="751.87317" z="627.98182"/>
+			<Orientation y="-5.22512"/>
+			<Actor seed="58858"/>
+		</Entity>
+		<Entity uid="585">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="772.89136" z="647.92286"/>
+			<Orientation y="0.78068"/>
+			<Actor seed="14148"/>
+		</Entity>
+		<Entity uid="586">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="807.64289" z="659.26368"/>
+			<Orientation y="0.63544"/>
+			<Actor seed="24582"/>
+		</Entity>
+		<Entity uid="587">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="718.04957" z="623.66858"/>
+			<Orientation y="0.8049"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="588">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="676.38801" z="479.59067"/>
+			<Orientation y="0.5779"/>
+			<Actor seed="58634"/>
+		</Entity>
+		<Entity uid="589">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="706.93976" z="544.31128"/>
+			<Orientation y="-1.84435"/>
+			<Actor seed="22428"/>
+		</Entity>
+		<Entity uid="590">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="766.80152" z="519.51771"/>
+			<Orientation y="1.24082"/>
+			<Actor seed="18000"/>
+		</Entity>
+		<Entity uid="591">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="750.08716" z="464.19657"/>
+			<Orientation y="-0.51807"/>
+			<Actor seed="61014"/>
+		</Entity>
+		<Entity uid="592">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="748.35602" z="549.11365"/>
+			<Orientation y="1.39747"/>
+			<Actor seed="17346"/>
+		</Entity>
+		<Entity uid="593">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="793.3672" z="563.75782"/>
+			<Orientation y="-0.78537"/>
+			<Actor seed="56676"/>
+		</Entity>
+		<Entity uid="594">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="476.71912" z="534.2602"/>
+			<Orientation y="1.24752"/>
+			<Actor seed="15270"/>
+		</Entity>
+		<Entity uid="595">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="525.26844" z="581.13422"/>
+			<Orientation y="-1.45124"/>
+			<Actor seed="13516"/>
+		</Entity>
+		<Entity uid="596">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="514.82337" z="626.21174"/>
+			<Orientation y="0.06554"/>
+			<Actor seed="52588"/>
+		</Entity>
+		<Entity uid="597">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="462.58716" z="710.7566"/>
+			<Orientation y="2.04453"/>
+			<Actor seed="47024"/>
+		</Entity>
+		<Entity uid="598">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="459.66117" z="649.54163"/>
+			<Orientation y="-1.1564"/>
+			<Actor seed="39774"/>
+		</Entity>
+		<Entity uid="599">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="702.07148" z="625.27051"/>
+			<Orientation y="1.5975"/>
+			<Actor seed="19528"/>
+		</Entity>
+		<Entity uid="600">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="799.0182" z="665.66553"/>
+			<Orientation y="-1.13295"/>
+			<Actor seed="56204"/>
+		</Entity>
+		<Entity uid="601">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="751.3974" z="615.81745"/>
+			<Orientation y="2.76632"/>
+			<Actor seed="42516"/>
+		</Entity>
+		<Entity uid="602">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="608.1922" z="515.73877"/>
+			<Orientation y="1.27021"/>
+			<Actor seed="16992"/>
+		</Entity>
+		<Entity uid="603">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="611.94239" z="501.25239"/>
+			<Orientation y="-0.96369"/>
+			<Actor seed="52014"/>
+		</Entity>
+		<Entity uid="604">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="590.27814" z="510.03498"/>
+			<Orientation y="1.46236"/>
+			<Actor seed="41874"/>
+		</Entity>
+		<Entity uid="605">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="633.34357" z="511.8621"/>
+			<Orientation y="-1.4449"/>
+			<Actor seed="40548"/>
+		</Entity>
+		<Entity uid="606">
+			<Template>gaia/flora_tree_fig</Template>
+			<Player>0</Player>
+			<Position x="527.60761" z="475.37641"/>
+			<Orientation y="1.31435"/>
+			<Actor seed="3286"/>
+		</Entity>
+		<Entity uid="607">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="670.09931" z="416.80936"/>
+			<Orientation y="-1.14863"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="608">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="511.81662" z="-356.3076"/>
+			<Orientation y="-0.81241"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="609">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="747.45167" z="390.68494"/>
+			<Orientation y="0.79741"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="610">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="581.69721" z="398.40058"/>
+			<Orientation y="-0.68755"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="611">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="446.12714" z="432.70136"/>
+			<Orientation y="-1.28081"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="612">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="628.05" z="638.62006"/>
+			<Orientation y="-1.11632"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="613">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="573.57105" z="643.01899"/>
+			<Orientation y="0.80491"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="614">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="424.52997" z="514.83741"/>
+			<Orientation y="-0.70972"/>
+			<Actor seed="15780"/>
+		</Entity>
+		<Entity uid="615">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="433.03144" z="668.61945"/>
+			<Orientation y="0.04041"/>
+			<Actor seed="4140"/>
+		</Entity>
+		<Entity uid="616">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="444.94062" z="694.53937"/>
+			<Orientation y="-2.68578"/>
+			<Actor seed="4140"/>
+		</Entity>
+		<Entity uid="617">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="455.0918" z="721.68207"/>
+			<Orientation y="-2.81768"/>
+			<Actor seed="4140"/>
+		</Entity>
+		<Entity uid="618">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="461.82029" z="693.8155"/>
+			<Orientation y="-3.51688"/>
+			<Actor seed="50884"/>
+		</Entity>
+		<Entity uid="619">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="439.87574" z="678.33204"/>
+			<Orientation y="0.53138"/>
+			<Actor seed="50884"/>
+		</Entity>
+		<Entity uid="620">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="452.84437" z="711.53461"/>
+			<Orientation y="0.11675"/>
+			<Actor seed="50884"/>
+		</Entity>
+		<Entity uid="621">
+			<Template>gaia/flora_bush_temperate</Template>
+			<Player>0</Player>
+			<Position x="449.11652" z="684.01313"/>
+			<Orientation y="0.51857"/>
+			<Actor seed="22888"/>
+		</Entity>
+		<Entity uid="622">
+			<Template>gaia/flora_bush_temperate</Template>
+			<Player>0</Player>
+			<Position x="438.76743" z="659.13209"/>
+			<Orientation y="-0.18552"/>
+			<Actor seed="22888"/>
+		</Entity>
+		<Entity uid="623">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="456.5181" z="701.80646"/>
+			<Orientation y="-1.57781"/>
+			<Actor seed="23844"/>
+		</Entity>
+		<Entity uid="624">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="465.91718" z="714.45246"/>
+			<Orientation y="0.37107"/>
+			<Actor seed="13754"/>
+		</Entity>
+		<Entity uid="625">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="437.57636" z="682.91028"/>
+			<Orientation y="-1.18969"/>
+			<Actor seed="18988"/>
+		</Entity>
+		<Entity uid="626">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="494.1485" z="939.02997"/>
+			<Orientation y="-0.54105"/>
+			<Actor seed="60142"/>
+		</Entity>
+		<Entity uid="627">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="483.597" z="903.4889"/>
+			<Orientation y="1.62761"/>
+			<Actor seed="12904"/>
+		</Entity>
+		<Entity uid="628">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="458.56098" z="806.32941"/>
+			<Orientation y="-0.78537"/>
+			<Actor seed="30682"/>
+		</Entity>
+		<Entity uid="629">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="451.30365" z="786.0857"/>
+			<Orientation y="1.72626"/>
+			<Actor seed="64966"/>
+		</Entity>
+		<Entity uid="630">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="489.95185" z="930.51465"/>
+			<Orientation y="-0.0671"/>
+			<Actor seed="45808"/>
+		</Entity>
+		<Entity uid="631">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="486.13294" z="895.30134"/>
+			<Orientation y="0.99895"/>
+			<Actor seed="46738"/>
+		</Entity>
+		<Entity uid="632">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="463.00431" z="814.09675"/>
+			<Orientation y="-0.46998"/>
+			<Actor seed="4496"/>
+		</Entity>
+		<Entity uid="633">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="480.57956" z="866.88569"/>
+			<Orientation y="1.00316"/>
+			<Actor seed="36300"/>
+		</Entity>
+		<Entity uid="634">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="474.8011" z="819.32581"/>
+			<Orientation y="-0.00123"/>
+			<Actor seed="46288"/>
+		</Entity>
+		<Entity uid="635">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="465.24073" z="764.96412"/>
+			<Orientation y="1.70638"/>
+			<Actor seed="8840"/>
+		</Entity>
+		<Entity uid="636">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="444.26423" z="766.30536"/>
+			<Orientation y="-1.9695"/>
+			<Actor seed="36722"/>
+		</Entity>
+		<Entity uid="637">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="453.40055" z="779.70398"/>
+			<Orientation y="1.30648"/>
+			<Actor seed="35670"/>
+		</Entity>
+		<Entity uid="638">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="460.99033" z="769.52466"/>
+			<Orientation y="1.11622"/>
+			<Actor seed="15330"/>
+		</Entity>
+		<Entity uid="639">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="491.1992" z="936.14612"/>
+			<Orientation y="-0.4267"/>
+			<Actor seed="24030"/>
+		</Entity>
+		<Entity uid="640">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="487.14454" z="909.7179"/>
+			<Orientation y="1.09063"/>
+			<Actor seed="33198"/>
+		</Entity>
+		<Entity uid="641">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="483.85517" z="859.2823"/>
+			<Orientation y="-0.73737"/>
+			<Actor seed="1620"/>
+		</Entity>
+		<Entity uid="642">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="459.20456" z="805.91187"/>
+			<Orientation y="-0.74141"/>
+			<Actor seed="32770"/>
+		</Entity>
+		<Entity uid="643">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="452.86438" z="788.49744"/>
+			<Orientation y="1.73072"/>
+			<Actor seed="62574"/>
+		</Entity>
+		<Entity uid="644">
+			<Template>actor|props/flora/grass_soft_large.xml</Template>
+			<Position x="452.0246" z="772.78675"/>
+			<Orientation y="2.43425"/>
+			<Actor seed="35234"/>
+		</Entity>
+		<Entity uid="645">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="519.21637" z="889.08399"/>
+			<Orientation y="-1.875"/>
+			<Actor seed="58858"/>
+		</Entity>
+		<Entity uid="646">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="604.71076" z="864.83716"/>
+			<Orientation y="-2.15554"/>
+			<Actor seed="58858"/>
+		</Entity>
+		<Entity uid="647">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="732.11548" z="895.69971"/>
+			<Orientation y="-2.43992"/>
+			<Actor seed="58858"/>
+		</Entity>
+		<Entity uid="648">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="763.90027" z="834.8191"/>
+			<Orientation y="-1.35012"/>
+			<Actor seed="58858"/>
+		</Entity>
+		<Entity uid="649">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="510.41861" z="817.73469"/>
+			<Orientation y="-5.35044"/>
+			<Actor seed="58858"/>
+		</Entity>
+		<Entity uid="650">
+			<Template>actor|props/flora/grass_savanna_field_tall.xml</Template>
+			<Position x="678.53486" z="852.81421"/>
+			<Orientation y="-0.86237"/>
+			<Actor seed="58858"/>
 		</Entity>
 	</Entities>
 	<Paths/>
