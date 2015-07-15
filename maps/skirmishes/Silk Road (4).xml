@@ -4,7 +4,7 @@
 	<Environment>
 		<SkySet>stratus</SkySet>
 		<SunColour r="0.94902" g="0.866667" b="0.611765"/>
-		<SunElevation angle="0.280117"/>
+		<SunElevation angle="0.352816"/>
 		<SunRotation angle="-1.44023"/>
 		<TerrainAmbientColour r="0.501961" g="0.501961" b="0.501961"/>
 		<UnitsAmbientColour r="0.501961" g="0.501961" b="0.501961"/>
@@ -16,7 +16,7 @@
 		<Water>
 			<WaterBody>
 				<Type>lake</Type>
-				<Colour r="0" g="0.533333" b="0.533333"/>
+				<Colour r="0" g="0.529412" b="0.529412"/>
 				<Tint r="0" g="0.501961" b="0.501961"/>
 				<Height>19.3049</Height>
 				<Waviness>5.46875</Waviness>
@@ -33,9 +33,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="723.425" y="220.125" z="-113.27"/>
-		<Rotation angle="0.139862"/>
-		<Declination angle="0.573833"/>
+		<Position x="657.51" y="538.704" z="-324.733"/>
+		<Rotation angle="-0.0177959"/>
+		<Declination angle="0.660802"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -6184,6 +6184,1028 @@
 			<Position x="772.758" z="951.06025"/>
 			<Orientation y="-1.36718"/>
 			<Actor seed="19230"/>
+		</Entity>
+		<Entity uid="1195">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="386.60898" z="788.53754"/>
+			<Orientation y="1.14515"/>
+			<Actor seed="63924"/>
+		</Entity>
+		<Entity uid="1196">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="405.36185" z="834.12525"/>
+			<Orientation y="-1.19155"/>
+			<Actor seed="28102"/>
+		</Entity>
+		<Entity uid="1197">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="392.54413" z="809.72071"/>
+			<Orientation y="1.38895"/>
+			<Actor seed="6796"/>
+		</Entity>
+		<Entity uid="1198">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="395.11759" z="794.58783"/>
+			<Orientation y="-1.08664"/>
+			<Actor seed="62380"/>
+		</Entity>
+		<Entity uid="1199">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="402.42508" z="821.46094"/>
+			<Orientation y="0.98302"/>
+			<Actor seed="4542"/>
+		</Entity>
+		<Entity uid="1200">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="391.2761" z="801.34559"/>
+			<Orientation y="-1.81768"/>
+			<Actor seed="49354"/>
+		</Entity>
+		<Entity uid="1201">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="401.06147" z="807.96918"/>
+			<Orientation y="0.81873"/>
+			<Actor seed="53228"/>
+		</Entity>
+		<Entity uid="1202">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="395.16172" z="823.4068"/>
+			<Orientation y="0.72542"/>
+			<Actor seed="30704"/>
+		</Entity>
+		<Entity uid="1203">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="395.66593" z="803.54029"/>
+			<Orientation y="1.21515"/>
+			<Actor seed="43078"/>
+		</Entity>
+		<Entity uid="1204">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="388.44242" z="791.66541"/>
+			<Orientation y="-0.92264"/>
+			<Actor seed="3612"/>
+		</Entity>
+		<Entity uid="1205">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="402.53608" z="826.79139"/>
+			<Orientation y="1.61666"/>
+			<Actor seed="52632"/>
+		</Entity>
+		<Entity uid="1207">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="398.94874" z="817.83991"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7524"/>
+		</Entity>
+		<Entity uid="1208">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="395.54285" z="798.74842"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62686"/>
+		</Entity>
+		<Entity uid="1209">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="368.99286" z="940.12336"/>
+			<Orientation y="1.61467"/>
+			<Actor seed="32364"/>
+		</Entity>
+		<Entity uid="1210">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="360.68586" z="940.748"/>
+			<Orientation y="-0.30134"/>
+			<Actor seed="55554"/>
+		</Entity>
+		<Entity uid="1211">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="356.93732" z="921.18567"/>
+			<Orientation y="1.85369"/>
+			<Actor seed="58644"/>
+		</Entity>
+		<Entity uid="1212">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="354.83274" z="929.8924"/>
+			<Orientation y="-1.20896"/>
+			<Actor seed="34754"/>
+		</Entity>
+		<Entity uid="1213">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="363.39722" z="930.15662"/>
+			<Orientation y="1.86222"/>
+			<Actor seed="46068"/>
+		</Entity>
+		<Entity uid="1214">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="358.42554" z="924.93317"/>
+			<Orientation y="1.33248"/>
+			<Actor seed="37714"/>
+		</Entity>
+		<Entity uid="1215">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="357.68009" z="935.19892"/>
+			<Orientation y="2.88868"/>
+			<Actor seed="23720"/>
+		</Entity>
+		<Entity uid="1216">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="367.24967" z="933.4048"/>
+			<Orientation y="1.28551"/>
+			<Actor seed="14774"/>
+		</Entity>
+		<Entity uid="1217">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="364.92823" z="943.12946"/>
+			<Orientation y="-0.02152"/>
+			<Actor seed="30152"/>
+		</Entity>
+		<Entity uid="1218">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="354.71473" z="925.81611"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38846"/>
+		</Entity>
+		<Entity uid="1219">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="363.18143" z="936.4886"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="29450"/>
+		</Entity>
+		<Entity uid="1220">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="321.56733" z="1074.03211"/>
+			<Orientation y="2.18131"/>
+			<Actor seed="49508"/>
+		</Entity>
+		<Entity uid="1221">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="317.54548" z="1058.81824"/>
+			<Orientation y="-0.14887"/>
+			<Actor seed="20846"/>
+		</Entity>
+		<Entity uid="1222">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="299.814" z="1055.82667"/>
+			<Orientation y="2.0521"/>
+			<Actor seed="8662"/>
+		</Entity>
+		<Entity uid="1223">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="305.4058" z="1064.37745"/>
+			<Orientation y="-0.48894"/>
+			<Actor seed="8170"/>
+		</Entity>
+		<Entity uid="1224">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="320.1374" z="1064.9214"/>
+			<Orientation y="1.57155"/>
+			<Actor seed="44756"/>
+		</Entity>
+		<Entity uid="1225">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="309.77457" z="1056.03333"/>
+			<Orientation y="-0.78803"/>
+			<Actor seed="15864"/>
+		</Entity>
+		<Entity uid="1226">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="316.7971" z="1063.84925"/>
+			<Orientation y="1.80207"/>
+			<Actor seed="6068"/>
+		</Entity>
+		<Entity uid="1227">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="324.73298" z="1060.52076"/>
+			<Orientation y="-1.24834"/>
+			<Actor seed="48114"/>
+		</Entity>
+		<Entity uid="1228">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="304.70176" z="1052.58082"/>
+			<Orientation y="0.07831"/>
+			<Actor seed="32490"/>
+		</Entity>
+		<Entity uid="1229">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="305.89216" z="1058.67835"/>
+			<Orientation y="0.95987"/>
+			<Actor seed="33742"/>
+		</Entity>
+		<Entity uid="1230">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="315.90461" z="1071.68274"/>
+			<Orientation y="-1.36426"/>
+			<Actor seed="25866"/>
+		</Entity>
+		<Entity uid="1231">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="312.42438" z="1067.53443"/>
+			<Orientation y="-0.5853"/>
+			<Actor seed="32264"/>
+		</Entity>
+		<Entity uid="1232">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="316.96717" z="1075.90918"/>
+			<Orientation y="-1.20405"/>
+			<Actor seed="23486"/>
+		</Entity>
+		<Entity uid="1233">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="124.03197" z="901.14051"/>
+			<Orientation y="1.9796"/>
+			<Actor seed="57914"/>
+		</Entity>
+		<Entity uid="1234">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="137.02588" z="897.08716"/>
+			<Orientation y="2.11197"/>
+			<Actor seed="24008"/>
+		</Entity>
+		<Entity uid="1235">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="128.224" z="889.7815"/>
+			<Orientation y="-0.6586"/>
+			<Actor seed="34944"/>
+		</Entity>
+		<Entity uid="1236">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="130.86271" z="900.13642"/>
+			<Orientation y="1.69123"/>
+			<Actor seed="49810"/>
+		</Entity>
+		<Entity uid="1237">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="136.0152" z="901.05781"/>
+			<Orientation y="1.81966"/>
+			<Actor seed="50374"/>
+		</Entity>
+		<Entity uid="1238">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="135.18964" z="892.4521"/>
+			<Orientation y="1.72278"/>
+			<Actor seed="6718"/>
+		</Entity>
+		<Entity uid="1239">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="124.64437" z="895.24866"/>
+			<Orientation y="-0.99152"/>
+			<Actor seed="23938"/>
+		</Entity>
+		<Entity uid="1240">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="126.4968" z="905.2945"/>
+			<Orientation y="-2.63067"/>
+			<Actor seed="49388"/>
+		</Entity>
+		<Entity uid="1241">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="131.64573" z="905.00831"/>
+			<Orientation y="-2.14324"/>
+			<Actor seed="26608"/>
+		</Entity>
+		<Entity uid="1242">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="130.4068" z="895.06006"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="35958"/>
+		</Entity>
+		<Entity uid="1243">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="101.98563" z="673.77637"/>
+			<Orientation y="0.47347"/>
+			<Actor seed="2648"/>
+		</Entity>
+		<Entity uid="1244">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="102.16016" z="684.14942"/>
+			<Orientation y="0.52395"/>
+			<Actor seed="56328"/>
+		</Entity>
+		<Entity uid="1245">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="109.06751" z="680.81916"/>
+			<Orientation y="0.44726"/>
+			<Actor seed="1498"/>
+		</Entity>
+		<Entity uid="1246">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="113.1" z="690.58368"/>
+			<Orientation y="-2.21316"/>
+			<Actor seed="29534"/>
+		</Entity>
+		<Entity uid="1247">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="116.94684" z="683.2552"/>
+			<Orientation y="0.6829"/>
+			<Actor seed="20054"/>
+		</Entity>
+		<Entity uid="1248">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="108.14832" z="675.36115"/>
+			<Orientation y="0.8155"/>
+			<Actor seed="24474"/>
+		</Entity>
+		<Entity uid="1249">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="107.45987" z="688.17133"/>
+			<Orientation y="-0.95643"/>
+			<Actor seed="63502"/>
+		</Entity>
+		<Entity uid="1251">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="112.58788" z="682.375"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1348"/>
+		</Entity>
+		<Entity uid="1252">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="99.64434" z="678.46894"/>
+			<Orientation y="2.22802"/>
+			<Actor seed="11580"/>
+		</Entity>
+		<Entity uid="1253">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="218.50385" z="586.52167"/>
+			<Orientation y="1.3538"/>
+			<Actor seed="16914"/>
+		</Entity>
+		<Entity uid="1254">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="215.96976" z="575.9933"/>
+			<Orientation y="1.32638"/>
+			<Actor seed="18028"/>
+		</Entity>
+		<Entity uid="1255">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="227.52909" z="584.62665"/>
+			<Orientation y="1.2042"/>
+			<Actor seed="63250"/>
+		</Entity>
+		<Entity uid="1256">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="222.35926" z="578.43018"/>
+			<Orientation y="1.30431"/>
+			<Actor seed="42694"/>
+		</Entity>
+		<Entity uid="1257">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="231.74485" z="572.08173"/>
+			<Orientation y="0.54543"/>
+			<Actor seed="25584"/>
+		</Entity>
+		<Entity uid="1258">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="223.97626" z="571.93976"/>
+			<Orientation y="1.32317"/>
+			<Actor seed="19028"/>
+		</Entity>
+		<Entity uid="1259">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="229.57068" z="577.13276"/>
+			<Orientation y="1.0033"/>
+			<Actor seed="602"/>
+		</Entity>
+		<Entity uid="1260">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="228.19953" z="570.14423"/>
+			<Orientation y="1.04217"/>
+			<Actor seed="48550"/>
+		</Entity>
+		<Entity uid="1261">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="87.86226" z="437.99155"/>
+			<Orientation y="1.2167"/>
+			<Actor seed="51096"/>
+		</Entity>
+		<Entity uid="1262">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="75.97091" z="428.98917"/>
+			<Orientation y="-1.25786"/>
+			<Actor seed="42852"/>
+		</Entity>
+		<Entity uid="1263">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="78.74328" z="437.86081"/>
+			<Orientation y="1.78399"/>
+			<Actor seed="62038"/>
+		</Entity>
+		<Entity uid="1264">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="90.61777" z="430.95392"/>
+			<Orientation y="1.51159"/>
+			<Actor seed="60406"/>
+		</Entity>
+		<Entity uid="1265">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="85.08156" z="427.88718"/>
+			<Orientation y="-0.89512"/>
+			<Actor seed="29682"/>
+		</Entity>
+		<Entity uid="1266">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="80.29155" z="432.01993"/>
+			<Orientation y="1.17327"/>
+			<Actor seed="34586"/>
+		</Entity>
+		<Entity uid="1267">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="88.04961" z="434.19391"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2422"/>
+		</Entity>
+		<Entity uid="1268">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="82.9761" z="440.64628"/>
+			<Orientation y="-1.51594"/>
+			<Actor seed="61122"/>
+		</Entity>
+		<Entity uid="1269">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="92.13381" z="438.56455"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="3050"/>
+		</Entity>
+		<Entity uid="1270">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="1200.56934" z="631.34998"/>
+			<Orientation y="0.72782"/>
+			<Actor seed="48550"/>
+		</Entity>
+		<Entity uid="1271">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="1195.65064" z="636.50043"/>
+			<Orientation y="0.68894"/>
+			<Actor seed="602"/>
+		</Entity>
+		<Entity uid="1272">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="1196.667" z="628.93531"/>
+			<Orientation y="1.00881"/>
+			<Actor seed="19028"/>
+		</Entity>
+		<Entity uid="1273">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="1201.03101" z="635.36371"/>
+			<Orientation y="0.23107"/>
+			<Actor seed="25584"/>
+		</Entity>
+		<Entity uid="1274">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="1190.43201" z="631.35718"/>
+			<Orientation y="0.98995"/>
+			<Actor seed="42694"/>
+		</Entity>
+		<Entity uid="1275">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="1188.35108" z="639.1543"/>
+			<Orientation y="0.88984"/>
+			<Actor seed="63250"/>
+		</Entity>
+		<Entity uid="1276">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="1188.73804" z="624.73188"/>
+			<Orientation y="1.01203"/>
+			<Actor seed="18028"/>
+		</Entity>
+		<Entity uid="1277">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="1181.59815" z="632.87378"/>
+			<Orientation y="1.03945"/>
+			<Actor seed="16914"/>
+		</Entity>
+		<Entity uid="1278">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="952.15394" z="562.85248"/>
+			<Orientation y="2.22803"/>
+			<Actor seed="11580"/>
+		</Entity>
+		<Entity uid="1279">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="960.18421" z="573.72944"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="1348"/>
+		</Entity>
+		<Entity uid="1280">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="952.6067" z="575.30298"/>
+			<Orientation y="-0.95644"/>
+			<Actor seed="63502"/>
+		</Entity>
+		<Entity uid="1281">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="960.8263" z="565.4535"/>
+			<Orientation y="0.81551"/>
+			<Actor seed="24474"/>
+		</Entity>
+		<Entity uid="1282">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="963.14905" z="577.04383"/>
+			<Orientation y="0.68291"/>
+			<Actor seed="20054"/>
+		</Entity>
+		<Entity uid="1283">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="955.68067" z="580.61158"/>
+			<Orientation y="-2.21317"/>
+			<Actor seed="29534"/>
+		</Entity>
+		<Entity uid="1284">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="958.29554" z="570.37586"/>
+			<Orientation y="0.44727"/>
+			<Actor seed="1498"/>
+		</Entity>
+		<Entity uid="1285">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="950.76893" z="568.90882"/>
+			<Orientation y="0.52396"/>
+			<Actor seed="56328"/>
+		</Entity>
+		<Entity uid="1286">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="956.83838" z="560.495"/>
+			<Orientation y="0.47347"/>
+			<Actor seed="2648"/>
+		</Entity>
+		<Entity uid="1287">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="873.15333" z="916.41303"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="35958"/>
+		</Entity>
+		<Entity uid="1288">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="868.19074" z="925.12366"/>
+			<Orientation y="-2.14324"/>
+			<Actor seed="26608"/>
+		</Entity>
+		<Entity uid="1289">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="863.8949" z="922.27076"/>
+			<Orientation y="-2.63068"/>
+			<Actor seed="49388"/>
+		</Entity>
+		<Entity uid="1290">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="868.42444" z="913.1147"/>
+			<Orientation y="-0.99152"/>
+			<Actor seed="23938"/>
+		</Entity>
+		<Entity uid="1291">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="878.54578" z="917.1869"/>
+			<Orientation y="1.72278"/>
+			<Actor seed="6718"/>
+		</Entity>
+		<Entity uid="1292">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="874.05567" z="924.57465"/>
+			<Orientation y="1.81966"/>
+			<Actor seed="50374"/>
+		</Entity>
+		<Entity uid="1293">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="870.47986" z="920.75232"/>
+			<Orientation y="1.69123"/>
+			<Actor seed="49810"/>
+		</Entity>
+		<Entity uid="1294">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="874.56458" z="910.878"/>
+			<Orientation y="-0.6586"/>
+			<Actor seed="34944"/>
+		</Entity>
+		<Entity uid="1295">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="877.24207" z="921.99903"/>
+			<Orientation y="2.11197"/>
+			<Actor seed="24008"/>
+		</Entity>
+		<Entity uid="1296">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="864.40705" z="917.46778"/>
+			<Orientation y="1.9796"/>
+			<Actor seed="57914"/>
+		</Entity>
+		<Entity uid="1297">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="915.85615" z="1071.53821"/>
+			<Orientation y="-1.20406"/>
+			<Actor seed="23486"/>
+		</Entity>
+		<Entity uid="1298">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="917.23035" z="1062.11023"/>
+			<Orientation y="-0.5853"/>
+			<Actor seed="32264"/>
+		</Entity>
+		<Entity uid="1299">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="917.53498" z="1067.51673"/>
+			<Orientation y="-1.36426"/>
+			<Actor seed="25866"/>
+		</Entity>
+		<Entity uid="1300">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="917.29896" z="1051.10608"/>
+			<Orientation y="0.95987"/>
+			<Actor seed="33742"/>
+		</Entity>
+		<Entity uid="1301">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="919.99537" z="1045.50892"/>
+			<Orientation y="0.07831"/>
+			<Actor seed="32490"/>
+		</Entity>
+		<Entity uid="1302">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="931.28852" z="1063.86"/>
+			<Orientation y="-1.24834"/>
+			<Actor seed="48114"/>
+		</Entity>
+		<Entity uid="1303">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="922.93903" z="1061.77576"/>
+			<Orientation y="1.80207"/>
+			<Actor seed="6068"/>
+		</Entity>
+		<Entity uid="1304">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="921.99231" z="1051.31141"/>
+			<Orientation y="-0.78803"/>
+			<Actor seed="15864"/>
+		</Entity>
+		<Entity uid="1305">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="924.97297" z="1064.63416"/>
+			<Orientation y="1.57155"/>
+			<Actor seed="44756"/>
+		</Entity>
+		<Entity uid="1306">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="913.49793" z="1055.38001"/>
+			<Orientation y="-0.48894"/>
+			<Actor seed="8170"/>
+		</Entity>
+		<Entity uid="1307">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="914.13715" z="1045.18323"/>
+			<Orientation y="2.0521"/>
+			<Actor seed="8662"/>
+		</Entity>
+		<Entity uid="1308">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="926.55011" z="1058.19373"/>
+			<Orientation y="-0.14887"/>
+			<Actor seed="20846"/>
+		</Entity>
+		<Entity uid="1309">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="920.66474" z="1072.78821"/>
+			<Orientation y="2.18131"/>
+			<Actor seed="49508"/>
+		</Entity>
+		<Entity uid="1310">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="1109.25806" z="892.88721"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="29450"/>
+		</Entity>
+		<Entity uid="1311">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="1108.86438" z="879.2699"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="38846"/>
+		</Entity>
+		<Entity uid="1312">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="1106.68213" z="899.25239"/>
+			<Orientation y="-0.02152"/>
+			<Actor seed="30152"/>
+		</Entity>
+		<Entity uid="1313">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="1114.36292" z="892.85206"/>
+			<Orientation y="1.28551"/>
+			<Actor seed="14774"/>
+		</Entity>
+		<Entity uid="1314">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="1105.6233" z="888.5611"/>
+			<Orientation y="2.8887"/>
+			<Actor seed="23720"/>
+		</Entity>
+		<Entity uid="1315">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="1112.36548" z="880.78406"/>
+			<Orientation y="1.33248"/>
+			<Actor seed="37714"/>
+		</Entity>
+		<Entity uid="1316">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="1113.22132" z="887.94416"/>
+			<Orientation y="1.86222"/>
+			<Actor seed="46068"/>
+		</Entity>
+		<Entity uid="1317">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="1106.5188" z="882.60584"/>
+			<Orientation y="-1.20896"/>
+			<Actor seed="34754"/>
+		</Entity>
+		<Entity uid="1318">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="1113.41663" z="876.89124"/>
+			<Orientation y="1.85369"/>
+			<Actor seed="58644"/>
+		</Entity>
+		<Entity uid="1319">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="1104.70936" z="894.80542"/>
+			<Orientation y="-0.30135"/>
+			<Actor seed="55554"/>
+		</Entity>
+		<Entity uid="1320">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="1111.73755" z="899.27753"/>
+			<Orientation y="1.61467"/>
+			<Actor seed="32364"/>
+		</Entity>
+		<Entity uid="1321">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="932.93024" z="738.29908"/>
+			<Orientation y="2.4214"/>
+			<Actor seed="62686"/>
+		</Entity>
+		<Entity uid="1322">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="925.3777" z="756.1609"/>
+			<Orientation y="2.4214"/>
+			<Actor seed="7524"/>
+		</Entity>
+		<Entity uid="1323">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="923.50507" z="765.62085"/>
+			<Orientation y="1.68183"/>
+			<Actor seed="52632"/>
+		</Entity>
+		<Entity uid="1324">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="930.8393" z="728.49036"/>
+			<Orientation y="-0.85747"/>
+			<Actor seed="3612"/>
+		</Entity>
+		<Entity uid="1325">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="930.42115" z="742.38337"/>
+			<Orientation y="1.28032"/>
+			<Actor seed="43078"/>
+		</Entity>
+		<Entity uid="1326">
+			<Template>gaia/flora_tree_cretan_date_palm_patch</Template>
+			<Player>0</Player>
+			<Position x="919.16803" z="758.76325"/>
+			<Orientation y="0.7906"/>
+			<Actor seed="30704"/>
+		</Entity>
+		<Entity uid="1327">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="932.53003" z="749.03772"/>
+			<Orientation y="0.8839"/>
+			<Actor seed="53228"/>
+		</Entity>
+		<Entity uid="1328">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="927.93744" z="738.15033"/>
+			<Orientation y="-1.75251"/>
+			<Actor seed="49354"/>
+		</Entity>
+		<Entity uid="1329">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="926.318" z="761.09168"/>
+			<Orientation y="1.0482"/>
+			<Actor seed="4542"/>
+		</Entity>
+		<Entity uid="1330">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="934.84211" z="734.57941"/>
+			<Orientation y="-1.02147"/>
+			<Actor seed="62380"/>
+		</Entity>
+		<Entity uid="1331">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="924.43476" z="745.86274"/>
+			<Orientation y="1.45412"/>
+			<Actor seed="6796"/>
+		</Entity>
+		<Entity uid="1332">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="921.87586" z="773.30958"/>
+			<Orientation y="-1.12638"/>
+			<Actor seed="28102"/>
+		</Entity>
+		<Entity uid="1333">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="931.00733" z="724.86866"/>
+			<Orientation y="1.21033"/>
+			<Actor seed="63924"/>
+		</Entity>
+		<Entity uid="1336">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="1116.88477" z="359.35666"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="3050"/>
+		</Entity>
+		<Entity uid="1337">
+			<Template>gaia/flora_bush_berry</Template>
+			<Player>0</Player>
+			<Position x="1107.72706" z="361.4384"/>
+			<Orientation y="-1.51595"/>
+			<Actor seed="61122"/>
+		</Entity>
+		<Entity uid="1338">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="1112.80054" z="354.98603"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="2422"/>
+		</Entity>
+		<Entity uid="1339">
+			<Template>gaia/flora_bush_badlands</Template>
+			<Player>0</Player>
+			<Position x="1105.04249" z="352.81205"/>
+			<Orientation y="1.17327"/>
+			<Actor seed="34586"/>
+		</Entity>
+		<Entity uid="1340">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="1109.83252" z="348.6793"/>
+			<Orientation y="-0.89513"/>
+			<Actor seed="29682"/>
+		</Entity>
+		<Entity uid="1341">
+			<Template>gaia/flora_tree_cretan_date_palm_tall</Template>
+			<Player>0</Player>
+			<Position x="1115.36866" z="351.74604"/>
+			<Orientation y="1.5116"/>
+			<Actor seed="60406"/>
+		</Entity>
+		<Entity uid="1342">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="1103.49427" z="358.65293"/>
+			<Orientation y="1.784"/>
+			<Actor seed="62038"/>
+		</Entity>
+		<Entity uid="1343">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="1100.72193" z="349.78129"/>
+			<Orientation y="-1.25786"/>
+			<Actor seed="42852"/>
+		</Entity>
+		<Entity uid="1344">
+			<Template>gaia/flora_tree_cretan_date_palm_short</Template>
+			<Player>0</Player>
+			<Position x="1112.61316" z="358.78367"/>
+			<Orientation y="1.21671"/>
+			<Actor seed="51096"/>
 		</Entity>
 	</Entities>
 	<Paths/>
