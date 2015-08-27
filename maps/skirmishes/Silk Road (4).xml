@@ -44,7 +44,7 @@
   "GameType": "conquest",
   "Keywords": [],
   "LockTeams": false,
-  "Name": "Silk Road",
+  "Name": "Silk Road (4)",
   "PlayerData": [
     null,
     {
@@ -58,13 +58,14 @@
     },
     {
       "Team": 1
-    },
-    {
-      "Civ": "mace"
     }
   ],
   "Preview": "",
-  "RevealMap": false
+  "RevealMap": false,
+  "TriggerScripts": [
+    "scripts/TriggerHelper.js",
+    "skirmishes/silk_road.js"
+  ]
 }
 ]]></ScriptSettings>
 	<Entities>
@@ -5149,99 +5150,99 @@
 			<Actor seed="37324"/>
 		</Entity>
 		<Entity uid="1022">
-			<Template>structures/ptol_market</Template>
-			<Player>5</Player>
+			<Template>structures/silk_road_market</Template>
+			<Player>0</Player>
 			<Position x="602.2992" z="599.26136"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="3590"/>
 		</Entity>
 		<Entity uid="1023">
-			<Template>structures/ptol_market</Template>
-			<Player>5</Player>
+			<Template>structures/silk_road_market</Template>
+			<Player>0</Player>
 			<Position x="698.69141" z="578.48945"/>
 			<Orientation y="6.68738"/>
 			<Actor seed="59436"/>
 		</Entity>
 		<Entity uid="1024">
 			<Template>structures/ptol_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="570.32251" z="593.87861"/>
 			<Orientation y="-0.15656"/>
 			<Actor seed="58864"/>
 		</Entity>
 		<Entity uid="1025">
 			<Template>structures/ptol_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="597.42109" z="572.12409"/>
 			<Orientation y="0.03672"/>
 			<Actor seed="10426"/>
 		</Entity>
 		<Entity uid="1026">
 			<Template>structures/ptol_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="626.66498" z="581.9145"/>
 			<Orientation y="-0.76456"/>
 			<Actor seed="42790"/>
 		</Entity>
 		<Entity uid="1027">
 			<Template>structures/ptol_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="633.84711" z="607.33027"/>
 			<Orientation y="3.14043"/>
 			<Actor seed="57438"/>
 		</Entity>
 		<Entity uid="1028">
 			<Template>structures/ptol_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="579.07288" z="580.25647"/>
 			<Orientation y="1.02773"/>
 			<Actor seed="64680"/>
 		</Entity>
 		<Entity uid="1029">
 			<Template>structures/ptol_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="682.64948" z="606.83478"/>
 			<Orientation y="1.56002"/>
 			<Actor seed="8144"/>
 		</Entity>
 		<Entity uid="1030">
 			<Template>structures/ptol_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="663.65693" z="563.01185"/>
 			<Orientation y="0.8427"/>
 			<Actor seed="24226"/>
 		</Entity>
 		<Entity uid="1031">
 			<Template>structures/ptol_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="733.0605" z="597.43573"/>
 			<Orientation y="3.12381"/>
 			<Actor seed="63542"/>
 		</Entity>
 		<Entity uid="1032">
 			<Template>gaia/flora_tree_baobab</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="583.63758" z="606.76191"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="11014"/>
 		</Entity>
 		<Entity uid="1033">
 			<Template>gaia/flora_tree_baobab</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="707.44196" z="592.32996"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="15342"/>
 		</Entity>
 		<Entity uid="1034">
-			<Template>structures/pers_market</Template>
-			<Player>5</Player>
+			<Template>structures/silk_road_market</Template>
+			<Player>0</Player>
 			<Position x="911.60157" z="509.65152"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="52844"/>
 		</Entity>
 		<Entity uid="1035">
-			<Template>structures/pers_market</Template>
-			<Player>5</Player>
+			<Template>structures/silk_road_market</Template>
+			<Player>0</Player>
 			<Position x="255.31952" z="515.95527"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="21196"/>
@@ -5273,28 +5274,28 @@
 		</Entity>
 		<Entity uid="1048">
 			<Template>structures/athen_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="952.39734" z="280.62095"/>
 			<Orientation y="7.00298"/>
 			<Actor seed="30516"/>
 		</Entity>
 		<Entity uid="1049">
 			<Template>structures/athen_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="998.10279" z="251.09144"/>
 			<Orientation y="8.56092"/>
 			<Actor seed="65326"/>
 		</Entity>
 		<Entity uid="1050">
 			<Template>structures/athen_farmstead</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="983.6836" z="236.66654"/>
 			<Orientation y="4.6842"/>
 			<Actor seed="64246"/>
 		</Entity>
 		<Entity uid="1052">
 			<Template>structures/athen_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="938.18097" z="268.11081"/>
 			<Orientation y="8.22053"/>
 			<Actor seed="2932"/>
@@ -5336,29 +5337,29 @@
 			<Actor seed="21892"/>
 		</Entity>
 		<Entity uid="1060">
-			<Template>structures/athen_dock</Template>
-			<Player>5</Player>
+			<Template>structures/silk_road_dock</Template>
+			<Player>0</Player>
 			<Position x="935.57648" z="233.6272"/>
 			<Orientation y="3.68754"/>
 			<Actor seed="8602"/>
 		</Entity>
 		<Entity uid="1062">
 			<Template>structures/athen_storehouse</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="963.31128" z="254.91715"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="22084"/>
 		</Entity>
 		<Entity uid="1063">
 			<Template>structures/athen_storehouse</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="269.18335" z="192.1071"/>
 			<Orientation y="0.71535"/>
 			<Actor seed="22084"/>
 		</Entity>
 		<Entity uid="1064">
-			<Template>structures/athen_dock</Template>
-			<Player>5</Player>
+			<Template>structures/silk_road_dock</Template>
+			<Player>0</Player>
 			<Position x="292.3631" z="165.93113"/>
 			<Orientation y="2.04668"/>
 			<Actor seed="8602"/>
@@ -5383,28 +5384,28 @@
 		</Entity>
 		<Entity uid="1068">
 			<Template>structures/athen_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="257.78174" z="166.11463"/>
 			<Orientation y="6.57967"/>
 			<Actor seed="2932"/>
 		</Entity>
 		<Entity uid="1069">
 			<Template>structures/athen_farmstead</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="285.96268" z="213.70734"/>
 			<Orientation y="3.04334"/>
 			<Actor seed="64246"/>
 		</Entity>
 		<Entity uid="1070">
 			<Template>structures/athen_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="270.56351" z="227.0811"/>
 			<Orientation y="6.92005"/>
 			<Actor seed="65326"/>
 		</Entity>
 		<Entity uid="1071">
 			<Template>structures/athen_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="244.30686" z="179.42011"/>
 			<Orientation y="5.36211"/>
 			<Actor seed="30516"/>
@@ -5450,49 +5451,49 @@
 		</Entity>
 		<Entity uid="1078">
 			<Template>structures/pers_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="941.08716" z="520.21766"/>
 			<Orientation y="-2.4491"/>
 			<Actor seed="59768"/>
 		</Entity>
 		<Entity uid="1079">
 			<Template>structures/pers_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="890.19642" z="526.70252"/>
 			<Orientation y="1.4044"/>
 			<Actor seed="6896"/>
 		</Entity>
 		<Entity uid="1080">
 			<Template>structures/pers_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="928.30567" z="488.77002"/>
 			<Orientation y="-0.78573"/>
 			<Actor seed="20028"/>
 		</Entity>
 		<Entity uid="1081">
 			<Template>structures/pers_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="230.75892" z="532.10254"/>
 			<Orientation y="0.9425"/>
 			<Actor seed="45602"/>
 		</Entity>
 		<Entity uid="1082">
 			<Template>structures/pers_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="285.6933" z="524.05524"/>
 			<Orientation y="-1.92759"/>
 			<Actor seed="52120"/>
 		</Entity>
 		<Entity uid="1083">
 			<Template>structures/pers_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="266.06272" z="487.86677"/>
 			<Orientation y="-1.78772"/>
 			<Actor seed="17392"/>
 		</Entity>
 		<Entity uid="1084">
 			<Template>structures/pers_house</Template>
-			<Player>5</Player>
+			<Player>0</Player>
 			<Position x="226.93903" z="500.10044"/>
 			<Orientation y="1.21493"/>
 			<Actor seed="42644"/>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_economic_market">
+  <Footprint>
+    <Square width="27" depth="27"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Health>
+    <Max>1500</Max>
+    <SpawnEntityOnDeath>rubble/rubble_stone_5x5</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <Civ>ptol</Civ>
+    <GenericName>Silk Road Post</GenericName>
+    <History>TODO Write me :)</History>
+    <Tooltip>TODO Write me :)</Tooltip>
+  </Identity>
+  <Loot>
+    <xp>0</xp>
+    <food>0</food>
+    <wood>0</wood>
+    <stone>0</stone>
+    <metal>0</metal>
+  </Loot>
+  <Obstruction>
+    <Static width="25.0" depth="25.0"/>
+  </Obstruction>
+  <ProductionQueue>
+    <Technologies datatype="tokens">
+	  <!--special techs for this map-->
+    </Technologies>
+    <Entities datatype="tokens"/>
+  </ProductionQueue>
+  <Vision>
+    <Range>15</Range>
+  </Vision>
+  <VisualActor>
+    <Actor>structures/ptolemies/market.xml</Actor>
+  </VisualActor>
+</Entity>

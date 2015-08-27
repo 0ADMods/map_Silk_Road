@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_dock">
+  <Footprint>
+    <Square width="26.0" depth="30.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>athen</Civ>
+    <GenericName>Silk Road Dock</GenericName>
+    <History>TODO Write me :)</History>
+    <Tooltip>TODO Write me :)</Tooltip>
+  </Identity>
+  <Loot>
+    <xp>0</xp>
+    <food>0</food>
+    <wood>0</wood>
+    <stone>0</stone>
+    <metal>0</metal>
+  </Loot>
+  <Obstruction>
+    <Static width="22.0" depth="26.0"/>
+  </Obstruction>
+  <ProductionQueue>
+    <Technologies datatype="tokens">
+	  <!--special techs for this map-->
+    </Technologies>
+    <Entities datatype="tokens"/>
+  </ProductionQueue>
+  <VisualActor>
+    <Actor>structures/athenians/dock.xml</Actor>
+    <FoundationActor>structures/fndn_6x4_dock.xml</FoundationActor>
+  </VisualActor>
+</Entity>
