@@ -5150,14 +5150,14 @@
 			<Actor seed="37324"/>
 		</Entity>
 		<Entity uid="1022">
-			<Template>structures/silk_road_market</Template>
+			<Template>structures/silk_road_market_center</Template>
 			<Player>0</Player>
 			<Position x="602.2992" z="599.26136"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="3590"/>
 		</Entity>
 		<Entity uid="1023">
-			<Template>structures/silk_road_market</Template>
+			<Template>structures/silk_road_market_center</Template>
 			<Player>0</Player>
 			<Position x="698.69141" z="578.48945"/>
 			<Orientation y="6.68738"/>

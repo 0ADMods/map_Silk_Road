@@ -34,6 +34,6 @@
     <Range>15</Range>
   </Vision>
   <VisualActor>
-    <Actor>structures/persians/market.xml</Actor>
+    <Actor>structures/ptolemies/market.xml</Actor>
   </VisualActor>
 </Entity>
