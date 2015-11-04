@@ -6,6 +6,7 @@
   </Footprint>
   <Identity>
     <Civ>athen</Civ>
+    <Classes datatype="tokens">-ConquestCritical</Classes>
     <GenericName>Silk Road Dock</GenericName>
     <History>TODO Write me :)</History>
     <Tooltip>TODO Write me :)</Tooltip>

@@ -10,6 +10,7 @@
   </Health>
   <Identity>
     <Civ>ptol</Civ>
+    <Classes datatype="tokens">-BarterMarket</Classes>
     <GenericName>Silk Road Post</GenericName>
     <History>TODO Write me :)</History>
     <Tooltip>TODO Write me :)</Tooltip>
