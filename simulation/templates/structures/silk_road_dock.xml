@@ -29,7 +29,9 @@
     <Technologies datatype="tokens">
 	  <!--special techs for this map-->
     </Technologies>
-    <Entities datatype="tokens"/>
+    <Entities datatype="tokens">
+      -units/{civ}_ship_merchant
+    </Entities>
   </ProductionQueue>
   <TerritoryDecay disable=""/>
   <VisualActor>

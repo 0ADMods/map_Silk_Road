@@ -33,7 +33,7 @@
     <Technologies datatype="tokens">
 	  <!--special techs for this map-->
     </Technologies>
-    <Entities datatype="tokens"/>
+    <Entities replace="" datatype="tokens"/>
   </ProductionQueue>
   <TerritoryDecay disable=""/>
   <Vision>
