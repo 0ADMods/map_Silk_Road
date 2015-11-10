@@ -33,7 +33,11 @@
       -units/{civ}_ship_merchant
     </Entities>
   </ProductionQueue>
-  <TerritoryDecay disable=""/>
+  <TerritoryInfluence>
+    <Root>true</Root>
+    <Radius>50</Radius>
+    <Weight>10000</Weight>
+  </TerritoryInfluence>
   <VisualActor>
     <Actor>structures/athenians/dock.xml</Actor>
     <FoundationActor>structures/fndn_6x4_dock.xml</FoundationActor>

@@ -35,7 +35,11 @@
     </Technologies>
     <Entities replace="" datatype="tokens"/>
   </ProductionQueue>
-  <TerritoryDecay disable=""/>
+  <TerritoryInfluence>
+    <Root>true</Root>
+    <Radius>50</Radius>
+    <Weight>10000</Weight>
+  </TerritoryInfluence>
   <Vision>
     <Range>15</Range>
   </Vision>
