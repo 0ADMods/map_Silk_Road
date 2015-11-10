@@ -33,9 +33,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="622.862" y="462.29" z="-341.125"/>
-		<Rotation angle="-0.00571908"/>
-		<Declination angle="0.602883"/>
+		<Position x="638.734" y="383.667" z="-244.222"/>
+		<Rotation angle="0.030316"/>
+		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -46,6 +46,7 @@
   "LockTeams": false,
   "Name": "Silk Road (4)",
   "PlayerData": [
+    null,
     {
       "Team": 0
     },
@@ -9082,6 +9083,20 @@
 			<Position x="596.09675" z="176.63941"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="15072"/>
+		</Entity>
+		<Entity uid="1665">
+			<Template>structures/ptol_house</Template>
+			<Player>0</Player>
+			<Position x="731.48914" z="567.71418"/>
+			<Orientation y="-0.26229"/>
+			<Actor seed="31144"/>
+		</Entity>
+		<Entity uid="1666">
+			<Template>structures/pers_house</Template>
+			<Player>0</Player>
+			<Position x="916.51026" z="545.27033"/>
+			<Orientation y="3.15496"/>
+			<Actor seed="35478"/>
 		</Entity>
 	</Entities>
 	<Paths/>
