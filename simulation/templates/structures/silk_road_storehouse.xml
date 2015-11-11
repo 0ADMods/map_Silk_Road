@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_economic_storehouse">
+  <Capturable>
+    <RegenRate>0</RegenRate>
+    <GarrisonRegenRate>0</GarrisonRegenRate>
+  </Capturable>
+  <Identity>
+    <Civ>athen</Civ>
+    <GenericName>Silk Road Storehouse</GenericName>
+    <History>TODO Write me :)</History>
+    <Tooltip>TODO Write me :)</Tooltip>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/athenians/storehouse.xml</Actor>
+  </VisualActor>
+</Entity>

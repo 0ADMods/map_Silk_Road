@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_economic_farmstead">
+  <Capturable>
+    <RegenRate>0</RegenRate>
+    <GarrisonRegenRate>0</GarrisonRegenRate>
+  </Capturable>
+  <Footprint>
+    <Square width="20.0" depth="15.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Health>
+    <SpawnEntityOnDeath>rubble/rubble_stone_4x2</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <Civ>athen</Civ>
+    <GenericName>Silk Road Farmstead</GenericName>
+    <History>TODO Write me :)</History>
+    <Tooltip>TODO Write me :)</Tooltip>
+  </Identity>
+  <Obstruction>
+    <Static width="18.0" depth="16.0"/>
+  </Obstruction>
+  <VisualActor>
+    <Actor>structures/athenians/farmstead_new.xml</Actor>
+    <FoundationActor>structures/fndn_4x2.xml</FoundationActor>
+  </VisualActor>
+</Entity>

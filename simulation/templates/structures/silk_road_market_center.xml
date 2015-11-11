@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="structures/silk_road_market">
+  <Footprint>
+    <Square width="27" depth="27"/>
+    <Height>8.0</Height>
+  </Footprint>
   <Identity>
     <Civ>ptol</Civ>
   </Identity>
+  <Obstruction>
+    <Static width="25.0" depth="25.0"/>
+  </Obstruction>
   <VisualActor>
     <Actor>structures/ptolemies/market.xml</Actor>
   </VisualActor>
