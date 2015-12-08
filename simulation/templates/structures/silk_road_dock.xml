@@ -8,6 +8,9 @@
     <Square width="26.0" depth="30.0"/>
     <Height>8.0</Height>
   </Footprint>
+  <Health>
+    <Undeletable>true</Undeletable>
+  </Health>
   <Identity>
     <Civ>athen</Civ>
     <Classes datatype="tokens">-ConquestCritical</Classes>
