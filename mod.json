@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "label": "Silk Road (4)",
     "url": "N/A",
-    "description": "N/A",
+    "description": "The Silk Road is the name given for the route that stretched from Chang’an, the capital of the Han Dynasty, to various points in the west",
     "dependencies": ["0ad"],
     "type": "map"
 }
