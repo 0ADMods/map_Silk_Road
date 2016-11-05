@@ -11,6 +11,6 @@
     <Tooltip>TODO Write me :)</Tooltip>
   </Identity>
   <VisualActor>
-    <Actor>structures/athenians/storehouse.xml</Actor>
+    <Actor>structures/hellenes/storehouse.xml</Actor>
   </VisualActor>
 </Entity>
