@@ -59,5 +59,20 @@ Trigger.prototype.CreateTradeRoute = function(data)
 
 var cmpTrigger = Engine.QueryInterface(SYSTEM_ENTITY, IID_Trigger);
 
+// Set every player to be neutral from the perspective of the trader player
+// TODO a special player would be better as then we could set it to be an ally (without vision? TODO decide)
+//      of the player so they don't attack the traders (they can't damage them, but still)
+
+// NOTE adding a player dynamically doesn't work as some other code relies on numPlayers and other things quite early on, but that would be a nice way, as it doesn't have the special player show up in gamesetup
+
+var cmpPlayerManager = Engine.QueryInterface(SYSTEM_ENTITY, IID_PlayerManager);
+let numPlayers = cmpPlayerManager.GetNumPlayers();
+let cmpTraderPlayer = QueryPlayerIDInterface(0); // adding a player dynamically doesn't work, as at least a few places need the player count on init, and once we're here that is too late
+//cmpTraderPlayer.SetName("Trader"); // TODO i18n
+for (let i = 1; i < numPlayers-1; ++i)
+{
+	cmpTraderPlayer.SetNeutral(i);
+}
+
 cmpTrigger.DoAfterDelay(0, "SetupInvulnerable", {});
 cmpTrigger.DoAfterDelay(0, "CreateTradeRoute", {});
