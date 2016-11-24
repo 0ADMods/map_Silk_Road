@@ -33,8 +33,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="638.734" y="383.667" z="-244.222"/>
-		<Rotation angle="0.030316"/>
+		<Position x="292.765" y="84.2936" z="105.121"/>
+		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -5289,7 +5289,7 @@
 		<Entity uid="1050">
 			<Template>structures/silk_road_farmstead</Template>
 			<Player>0</Player>
-			<Position x="983.6836" z="236.66654"/>
+			<Position x="983.69593" z="236.68162"/>
 			<Orientation y="4.6842"/>
 			<Actor seed="64246"/>
 		</Entity>
@@ -9097,6 +9097,20 @@
 			<Position x="916.51026" z="545.27033"/>
 			<Orientation y="3.15496"/>
 			<Actor seed="35478"/>
+		</Entity>
+		<Entity uid="1668">
+			<Template>special/territory_pull</Template>
+			<Player>0</Player>
+			<Position x="276.33515" z="211.86313"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="5270"/>
+		</Entity>
+		<Entity uid="1669">
+			<Template>special/territory_pull</Template>
+			<Player>0</Player>
+			<Position x="981.23505" z="247.57911"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="43100"/>
 		</Entity>
 	</Entities>
 	<Paths/>
