@@ -31,3 +31,14 @@ Trader.prototype.SetTargetMarkets = function(targets, source) // HACKITY (should
 	this.goods.type = cmpPlayer.GetNextTradingGoods();
 	return true;
 };
+
+Trader.prototype.GenerateResources = function(currentMarket, nextMarket)
+{
+	this.AddResources(currentMarket, this.goods.amount.traderGain);
+
+	if (this.goods.amount.market1Gain)
+		this.AddResources(currentMarket, this.goods.amount.market1Gain);
+
+	if (this.goods.amount.market2Gain)
+		this.AddResources(currentMarket, this.goods.amount.market2Gain);
+};
