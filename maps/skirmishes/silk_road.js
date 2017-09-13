@@ -5,7 +5,7 @@ const houses = [1024, 1025, 1026, 1027, 1028, 1029, 1030, 1031, 1048, 1049, 1052
 const storehouses = [1062, 1063];
 const farmsteads = [1050, 1069];
 
-const tradeposts = [1064, 1035, 1022, 1023, 1034, 1060]
+const tradeposts = [1064, 1035, 1022, 1023, 1034, 1060];
 
 Trigger.prototype.SetupInvulnerable = function(data)
 {
