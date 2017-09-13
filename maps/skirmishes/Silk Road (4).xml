@@ -9099,14 +9099,14 @@
 			<Actor seed="35478"/>
 		</Entity>
 		<Entity uid="1668">
-			<Template>special/territory_pull</Template>
+			<Template>other/territory_pull</Template>
 			<Player>0</Player>
 			<Position x="276.33515" z="211.86313"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="5270"/>
 		</Entity>
 		<Entity uid="1669">
-			<Template>special/territory_pull</Template>
+			<Template>other/territory_pull</Template>
 			<Player>0</Player>
 			<Position x="981.23505" z="247.57911"/>
 			<Orientation y="2.35621"/>
